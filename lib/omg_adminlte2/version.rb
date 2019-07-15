@@ -1,3 +1,3 @@
 module OmgAdminlte2
-  VERSION = "0.1.0"
+  VERSION = "2.4.5"
 end

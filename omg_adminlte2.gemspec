@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Serghei Topor']
   spec.email         = ['serghei.topor@gmail.com']
   spec.summary       = 'Integrates AdminLTE theme with the Rails asset pipeline'
-  spec.homepage      = 'https://bitbucket.org/orientalmedia/omg_adminlte2'
+  spec.homepage      = 'https://github.com/oriental-media/omg_adminlte2'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
